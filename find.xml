@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="HTML文件" />
-    <option name="defaultScopeName" value="HTML文件" />
+    <option name="customScope" value="JAVA文件" />
+    <option name="defaultScopeName" value="JAVA文件" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="HTML文件" />
+    <option name="SEARCH_SCOPE" value="JAVA文件" />
   </component>
 </application>
