@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="CSS文件" />
-    <option name="defaultScopeName" value="CSS文件" />
+    <option name="customScope" value="JS文件" />
+    <option name="defaultScopeName" value="JS文件" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="CSS文件" />
+    <option name="SEARCH_SCOPE" value="JS文件" />
   </component>
 </application>
